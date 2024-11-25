@@ -4,7 +4,7 @@
   
   ## Description
   
-  readme-mastermind is a Node.js application that generates professional and high-quality README files for your projects based on user input. It simplifies the process of creating detailed documentation, saving developers time and effort.
+  A node.js app to quickly gererate a professional README file
   
   ## Table of Contents
   
@@ -17,11 +17,11 @@
   
   ## Installation
   
-  To install README-Mastermind, clone the repository using git clone <repository-url>, navigate to the project directory with cd README-Mastermind, and install the required dependencies by running npm install.
+  clone the repository and then navigate to the directory and run the npm install.
   
   ## Usage
   
-  To use README-Mastermind, run the command node index.js in the terminal. Answer the prompts to provide details about your project, and the application will generate a professional README.md file based on your input.
+  Run the node index.js and answer all the prompts to creat a README.
   
   ## License
   
@@ -29,11 +29,11 @@
   
   ## Contributing
   
-  Contributions to README-Mastermind are welcome! To contribute, fork the repository, create a new branch for your feature or bug fix, make your changes, and submit a pull request. Ensure your code follows best practices and includes clear comments.
+  Fork the repository, creat a branch, make changes, and submit a pull request.
   
   ## Tests
   
-  To test README-Mastermind, run the application using node index.js and provide input for each prompt to ensure the generated README file meets expectations. Verify that all sections, including the title, description, installation, usage, license, contributing, and tests, are accurately reflected in the output file.
+  Run the node index.js, answer the prompts and verify the README output.
   
   ## Questions
   
@@ -42,6 +42,3 @@
   - GitHub: [Armnab](https://github.com/Armnab)
   - Email: [abadianarman@gmail.com](mailto:abadianarman@gmail.com)
   
-  ## Walkthrough Video
-
- Watch the walkthrough video demonstrating the functionality of this project: [walkthroughvideo]
