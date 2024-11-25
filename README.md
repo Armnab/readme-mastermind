@@ -1,10 +1,10 @@
-# readme-mastermind 
+# readme-mastermind
   
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
   
   ## Description
   
-  A Node.js app to quickly generate professional README file.
+  A node.js app to quickly gererate a professional README file
   
   ## Table of Contents
   
@@ -17,11 +17,11 @@
   
   ## Installation
   
-  Clone the repository, Navigate to the directory, and then run the npm install.
+  clone the repository and then navigate to the directory and run the npm install.
   
   ## Usage
   
-  Run node index.js and answer the prompts to creat a README.
+  Run the node index.js and answer all the prompts to creat a README.
   
   ## License
   
@@ -29,16 +29,16 @@
   
   ## Contributing
   
-  Fork the repository. creat a branch and make changes and then submit and do the pull request.
+  Fork the repository, creat a branch, make changes, and submit a pull request.
   
   ## Tests
   
-  Run node index.js, answer all the prompts and verify the README output.
+  Run the node index.js, answer the prompts and verify the README output.
   
   ## Questions
   
   If you have any questions, feel free to reach out:
   
-  - GitHub: [armnab](https://github.com/armnab)
+  - GitHub: [Armnab](https://github.com/Armnab)
   - Email: [abadianarman@gmail.com](mailto:abadianarman@gmail.com)
   
