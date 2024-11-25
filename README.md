@@ -4,7 +4,7 @@
   
   ## Description
   
-  A node.js app to quickly gererate a professional README file
+  A node.js app that quickly generate to the professional README files.
   
   ## Table of Contents
   
@@ -17,11 +17,11 @@
   
   ## Installation
   
-  clone the repository and then navigate to the directory and run the npm install.
+  Clone the repository, Navigate to the directory and then run the npm install.
   
   ## Usage
   
-  Run the node index.js and answer all the prompts to creat a README.
+  Run node index.js and answer all the prompts to creat a README.
   
   ## License
   
@@ -29,11 +29,11 @@
   
   ## Contributing
   
-  Fork the repository, creat a branch, make changes, and submit a pull request.
+  Fork the repository, creat a branch, make changes and submit a pull request.
   
   ## Tests
   
-  Run the node index.js, answer the prompts and verify the README output.
+  Run the node index.js and answer the prompts and verify the README output.
   
   ## Questions
   
